@@ -16,7 +16,7 @@
 
 [🌐 Live Demo](https://noga-66.github.io/Tomato-Disease-Classifier/) 
 
-![TomatoScan App Screenshot](screenshot.png)
+![TomatoScan App Screenshot](Screenshot 2026-03-14 161253.png)
 
 </div>
 
