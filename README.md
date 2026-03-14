@@ -1,14 +1,11 @@
 # 🍅 TomatoScan — Tomato Disease Classifier
 
 <div align="center">
-
-![Accuracy]()
-
-
+  
 
 **AI-powered tomato leaf disease detection using XGBoost & SVM**
 
-[🌐 Live Demo](https://noga-66.github.io/Tomato-Disease-Classifier/) • [📓 Notebooks](#notebooks) • [📊 Results](#results) • [🚀 Quick Start](#quick-start)
+[🌐 Live Demo](https://noga-66.github.io/Tomato-Disease-Classifier/) 
 
 </div>
 
