@@ -16,7 +16,7 @@
 
 [🌐 Live Demo](https://noga-66.github.io/Tomato-Disease-Classifier/) 
 
-![TomatoScan App Screenshot](Screenshot 2026-03-14 161253.png)
+![TomatoScan App Screenshot]()
 
 </div>
 
@@ -255,7 +255,7 @@ seaborn>=0.12
 
 ## 📁 Dataset
 
-The dataset used is a subset of the [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease):
+The dataset used is a subset of the [PlantVillage Dataset](https://drive.google.com/drive/folders/1QfEEKK-_THbJSX1MiXp5uSntatuuCgwB?usp=drive_link):
 
 | Class | Original Images | After Augmentation |
 |---|---|---|
