@@ -278,7 +278,7 @@ The dataset used is a subset of the [PlantVillage Dataset](https://drive.google.
 
 ## 👩‍💻 Author
 
-Built with  Nada Hossam ❤️ using Python, scikit-learn, and Claude AI.
+Built  By   Nada Hossam ❤️ using Python, scikit-learn, and Claude AI.
 
 ---
 
