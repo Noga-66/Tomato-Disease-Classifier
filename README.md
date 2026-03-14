@@ -1,11 +1,22 @@
 # 🍅 TomatoScan — Tomato Disease Classifier
 
+
 <div align="center">
   
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
+![Sklearn](https://img.shields.io/badge/Scikit--Learn-1.8-orange?style=flat-square&logo=scikit-learn)
+![Accuracy](https://img.shields.io/badge/Accuracy-95.0%25-brightgreen?style=flat-square)
+![ROC AUC](https://img.shields.io/badge/ROC--AUC-0.990-cyan?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 
+
+  
 **AI-powered tomato leaf disease detection using XGBoost & SVM**
 
 [🌐 Live Demo](https://noga-66.github.io/Tomato-Disease-Classifier/) 
+
+![TomatoScan App Screenshot](screenshot.png)
 
 </div>
 
@@ -267,7 +278,7 @@ The dataset used is a subset of the [PlantVillage Dataset](https://www.kaggle.co
 
 ## 👩‍💻 Author
 
-Built with ❤️ using Python, scikit-learn, and Claude AI.
+Built with  Nada Hossam ❤️ using Python, scikit-learn, and Claude AI.
 
 ---
 
